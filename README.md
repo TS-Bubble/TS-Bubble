@@ -1,62 +1,75 @@
 <div align="center">
 
-# 👋 Hello, World! I'm TS-Bubble
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9FF,100:92FE9D&height=200&section=header&text=TS-Bubble&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Code.+Build.+Repeat.&descSize=20&descAlignY=62&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Passionate+Programmer;Always+Coding+%F0%9F%92%BB;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+<br/>
 
----
-
-## 🎓 About Me
-
-| 🏫 **University** | Islamic University of Technology (IUT) |
-|---|---|
-| 📚 **Department** | Computer Science & Engineering (CSE) |
-| ❤️ **Passion** | Programming |
-| ⌨️ **Status** | Most of the time... coding! |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=false&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;I+live%2C+breathe+%26+dream+in+code+%F0%9F%92%BB;Turning+caffeine+into+algorithms+%E2%98%95;printf(%22Hello%2C+World%22)%3B+was+just+the+beginning...;If+it+compiles%2C+ship+it+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
-## 🚀 What I'm Up To
+## ⚡ Who Am I?
 
-- 🔭 Building cool projects and sharpening my coding skills
-- 🌱 Always learning new technologies and algorithms
-- 💡 Passionate about turning ideas into reality through code
-- ☕ Fueled by coffee and curiosity
+```python
+class Developer:
+    def __init__(self):
+        self.name    = "TS-Bubble"
+        self.passion = "Programming"
+        self.status  = "Coding... always coding 💻"
+        self.hobbies = ["Solving problems", "Building projects", "Learning new tech"]
+        self.fuel    = "☕ Coffee + 🎧 Lo-fi"
+
+    def say_hello(self):
+        print("Hey! Let's build something awesome together 🚀")
+```
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Languages & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,linux,vscode,github&perline=8&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TS-Bubble&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS-Bubble&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TS-Bubble&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF&ring_color=00C9FF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS-Bubble&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TS-Bubble&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TS-Bubble&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF" alt="GitHub Streak" width="500"/>
 </p>
 
 ---
 
-## 🌟 Fun Fact
+## 🐍 Contribution Snake
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TS-Bubble/TS-Bubble/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TS-Bubble&color=00c9ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TS-Bubble&color=00c9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/TS-Bubble?tab=followers">
+    <img src="https://img.shields.io/github/followers/TS-Bubble?label=Followers&style=for-the-badge&color=00C9FF&labelColor=0D1117" alt="Followers"/>
+  </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
